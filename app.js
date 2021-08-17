@@ -4,7 +4,7 @@ const shoes = document.querySelectorAll('.shoe');
 const gradients = document.querySelectorAll('.gradient');
 const shoeBg = document.querySelector('.shoeBackground');
 
-let prevColor = "blue";
+let prevColor = "branco";
 let animationEnd = true;
 
 function changeSize(){
